@@ -1,0 +1,15 @@
+{
+  "name": "x_clone",
+  "version": "1.0.0",
+  "description": "x clone project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon src/index.js"
+  },
+  "author": "Mahin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
